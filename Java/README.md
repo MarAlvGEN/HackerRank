@@ -1,15 +1,14 @@
 # Java Domain Challenges
 
 <p align="left">
-  <a href="https://www.hackerrank.com/domains/java">
-    <img src="https://img.shields.io/badge/HackerRank-Java%20Domain-2EC4B6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Java Domain">
-  </a>
-  <img src="https://img.shields.io/badge/Progress-2%2F64%20Completed-brightgreen?style=for-the-badge" alt="Progress">
+<img src="https://img.shields.io/badge/HackerRank-Java%20Domain-2EC4B6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Java Domain">
+<img src="https://img.shields.io/badge/Progress-2%2F64%20Completed-brightgreen?style=for-the-badge" alt="Progress">
 </p>
 
-Directory containing structured solutions and detailed explanations for challenges in the [HackerRank Java Domain](https://www.hackerrank.com/domains/java).
+<img width="1255" height="557" alt="image" src="https://github.com/user-attachments/assets/a2d5d15e-ee36-494d-811b-de13bdae232e" />
 
-[< Back to Main Repository](../README.md)
+
+Directory containing structured solutions and detailed explanations for challenges in the [HackerRank Java Domain](https://www.hackerrank.com/domains/java).
 
 ---
 
