@@ -2,7 +2,7 @@
 
 | Domain | Key Concepts | Difficulty | Recommended Docs |
 | :---: | :---: | :---: | :---: |
-| [Java README](../README.md) | Basic Syntax, Output Printing, Main Method | Easy | [Oracle Java Docs](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html) |
+|  <a href="../README.md#java-domain-challenges"><img src="https://img.shields.io/badge/Java%20Domain-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Domain"></a>  | Basic Syntax, Output Printing, Main Method | Easy | [Oracle Java Docs](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html) |
 
 ---
 
