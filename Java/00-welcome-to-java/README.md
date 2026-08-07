@@ -45,13 +45,15 @@ By using `System.out.println()`, the program prints the specified string to the 
 
 ---
 
+ ## Screenshot
+
 <img width="693" height="506" alt="image" src="https://github.com/user-attachments/assets/e0bc19c2-711e-4e0a-a192-a1708a1ab9e9" />
 
 
 
 <div align="center">
 
-| [⬅️ Challenge #00](../00-welcome-to-java/README.md) | [Challenge #01 ➡️](../01-java-if-else/README.md) |
+| [⬅️ Java README](../README.md) | [Challenge #01 ➡️](../01-java-if-else/README.md) |
 | :---: | :---: |
 
 </div>
