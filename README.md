@@ -1,6 +1,6 @@
 # HackerRank Solutions
 
-Main repository dedicated to organizing and documenting solutions for HackerRank challenges.
+Main repository dedicated to organizing, structuring, and documenting solutions for HackerRank challenges.
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/mauricioalva_dev">
@@ -15,15 +15,24 @@ Main repository dedicated to organizing and documenting solutions for HackerRank
 </p>
 
 ---
-## Language Sections
 
-Navigate to the specific language directory to view the challenges and their detailed implementations:
+## Explore Challenges by Language
 
-| Language | Path | Status |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"> | [`./Java`](./Java/README.md#java-domain-challenges)| ![In Progress](https://img.shields.io/badge/-In%20Progress-yellow) |
+Select a language domain below to inspect problem explanations, clean code implementations, and execution screenshots:
+
+<div align="center">
+
+| Domain | Completed | Progress Bar | Action |
+| :---: | :---: | :---: | :---: |
+| <a href="./JAVA/README.md#java-domain-challenges"><img src="https://img.shields.io/badge/Java%20Domain-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Domain"></a> | **2 / 64** | ![Progress](https://geps.dev/progress/3) | [<img src="https://img.shields.io/badge/Explore%20Java%20Solutions%20%E2%9E%9F-2EC4B6?style=for-the-badge" alt="Explore Java">](./JAVA/README.md#java-domain-challenges) |
+
+</div>
+
+<br />
+
+>  **Tip:** Click on the **Explore Java Solutions ➔** button above to jump directly to the challenge index and view detailed step-by-step solutions.
 
 ---
 
-## Profile
-Visit my official [HackerRank Profile](https://www.hackerrank.com/profile/mauricioalva_dev) to check badge progress and track verified skills.
+## Profile & Progress
+Visit my official [HackerRank Profile](https://www.hackerrank.com/profile/mauricioalva_dev) to view verified skills, badges, and real-time activity.
