@@ -2,7 +2,7 @@
 
 | Domain | Key Concepts | Difficulty | Recommended Docs |
 | :---: | :---: | :---: | :---: |
-| [README de Java](../README.md) | Control Flow, Conditionals | Easy | [Oracle Java Docs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html) |
+| [Java README](../README.md) | Control Flow, Conditionals | Easy | [Oracle Java Docs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html) |
 ---
 
 ## Problem Statement
