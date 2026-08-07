@@ -46,7 +46,7 @@
 
 <div align="center">
 
-| [⬅️ Challenge #00](../00/README.md) | [Challenge #02 ➡️](../02/README.md) |
+| [<-- Challenge #00](../00/README.md) | [Challenge #02 -->](../02/README.md) |
 | :---: | :---: |
 
 </div>
