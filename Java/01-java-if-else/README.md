@@ -52,7 +52,7 @@ if (N % 2 != 0 || (N >= 6 && N <= 20)) {
 
 <div align="center">
 
-| [⬅️ Challenge #00](../00-welcome-to-java/README.md) | [Challenge #02 ➡️](../02-java-stdin-and-stdout-i/README.md) |
+| [<-- Challenge #00](../00-welcome-to-java/README.md) | [Challenge #02 -->](../02-java-stdin-and-stdout-i/README.md) |
 | :---: | :---: |
 
 </div>
