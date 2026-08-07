@@ -2,7 +2,7 @@
 
 | Domain | Key Concepts | Difficulty | Recommended Docs |
 | :---: | :---: | :---: | :---: |
-| [Java README](../README.md) | Control Flow, Conditionals | Easy | [Oracle Java Docs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html) |
+| <a href="../README.md#java-domain-challenges"><img src="https://img.shields.io/badge/Java%20Domain-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Domain"></a> | Control Flow, Conditionals | Easy | [Oracle Java Docs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html) |
 ---
 
 ## Problem Statement
@@ -46,7 +46,7 @@ if (N % 2 != 0 || (N >= 6 && N <= 20)) {
 <img width="716" height="656" alt="image" src="https://github.com/user-attachments/assets/11c07094-2b5a-42db-ac46-38ad26370430" />
 
 
-🌐 [View Screenshot file](./screen.java) 
+🌐 [View Screenshot file](./screen.png) 
 
 ---
 
