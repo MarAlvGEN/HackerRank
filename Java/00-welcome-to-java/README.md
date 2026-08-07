@@ -41,7 +41,7 @@ Hello, Java.
 
 This introductory challenge focuses on standard output in Java. The goal is to understand how the entry point of a Java program (public static void main) executes sequential instructions. 
 
-By using System.out.println(), the program prints the specified string to the console and automatically inserts a newline character at the end, placing the second statement cleanly on a new line.
+By using `System.out.println()`, the program prints the specified string to the console and automatically inserts a newline character at the end, placing the second statement cleanly on a new line.
 
 ---
 
