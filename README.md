@@ -24,7 +24,7 @@ Select a language domain below to inspect problem explanations, clean code imple
 
 | Domain | Completed | Progress Bar | Action |
 | :---: | :---: | :---: | :---: |
-| <a href="./JAVA/README.md#java-domain-challenges"><img src="https://img.shields.io/badge/Java%20Domain-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Domain"></a> | **2 / 64** | ![Progress](https://geps.dev/progress/3) | [<img src="https://img.shields.io/badge/Explore%20Java%20Solutions%20%E2%9E%9F-2EC4B6?style=for-the-badge" alt="Explore Java">](./JAVA/README.md#java-domain-challenges) |
+| <a href="./Java/README.md#java-domain-challenges"><img src="https://img.shields.io/badge/Java%20Domain-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Domain"></a> | **2 / 64** | ![Progress](https://geps.dev/progress/3) | [<img src="https://img.shields.io/badge/Explore%20Java%20Solutions%20%E2%9E%9F-1F2937?style=for-the-badge" alt="Explore Java">](./Java/README.md#java-domain-challenges) |
 
 </div>
 
