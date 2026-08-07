@@ -29,11 +29,11 @@ Hello, Java.
 
 ## Final Solution
 
-🌐 [View RAW Java file](./code.java)
+<img width="772" height="185" alt="image" src="https://github.com/user-attachments/assets/a4cf2da1-5e92-42aa-bbc1-367c0dadfa97" />
 
 > **IDE Execution Screenshot:**
 
-<img width="700" alt="Final Code Execution" src="URL_IMAGEN_EJECUCION" />
+🌐 [View RAW Java file](./code.java)
 
 ---
 
@@ -49,11 +49,11 @@ By using `System.out.println()`, the program prints the specified string to the 
 
 <img width="693" height="506" alt="image" src="https://github.com/user-attachments/assets/e0bc19c2-711e-4e0a-a192-a1708a1ab9e9" />
 
-
+---
 
 <div align="center">
 
-| [⬅️ Java README](../README.md) | [Challenge #01 ➡️](../01-java-if-else/README.md) |
+| [<-- Java README](../README.md) | [Challenge #01 -->](../01-java-if-else/README.md) |
 | :---: | :---: |
 
 </div>
