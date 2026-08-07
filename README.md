@@ -15,14 +15,13 @@ Main repository dedicated to organizing and documenting solutions for HackerRank
 </p>
 
 ---
-
 ## Language Sections
 
 Navigate to the specific language directory to view the challenges and their detailed implementations:
 
 | Language | Path | Status |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"> | [`./Java`](./Java) | ![In Progress](https://img.shields.io/badge/-In%20Progress-yellow) |
+| <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"> | [`./Java`](./Java/README.md#java-domain-challenges)| ![In Progress](https://img.shields.io/badge/-In%20Progress-yellow) |
 
 ---
 
