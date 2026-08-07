@@ -17,9 +17,9 @@ Directory containing structured solutions, detailed explanations, and code snipp
 
 ---
 
-## Domain Overview
-
 <div align="center">
+  
+## Domain Overview
 
 | Language | Total Challenges | Progress | Overall Status |
 | :---: | :---: | :---: | :---: |
@@ -29,8 +29,10 @@ Directory containing structured solutions, detailed explanations, and code snipp
 
 ---
 
-## Challenge Index
+<div align="center">
 
+## Challenge Index
+  
 | Challenge | Difficulty | Solution | Explanation | Status |
 | :--- | :-: | :-: | :-: | :-: |
 | [**#00 · Welcome to Java!**](./00-welcome-to-java/README.md) | Easy | [`code.java`](./00-welcome-to-java/code.java) | [`README.md`](./00-welcome-to-java/README.md) | ![Completed](https://img.shields.io/badge/-Completed-10B981) |
@@ -97,6 +99,8 @@ Directory containing structured solutions, detailed explanations, and code snipp
 | [**#61 · Java Lambda Expressions**](./61-java-lambda-expressions/README.md) | Medium | [`code.java`](./61-java-lambda-expressions/code.java) | [`README.md`](./61-java-lambda-expressions/README.md) | ![Pending](https://img.shields.io/badge/-Pending-lightgrey) |
 | [**#62 · Java MD5**](./62-java-md5/README.md) | Medium | [`code.java`](./62-java-md5/code.java) | [`README.md`](./62-java-md5/README.md) | ![Pending](https://img.shields.io/badge/-Pending-lightgrey) |
 | [**#63 · Java SHA-256**](./63-java-sha-256/README.md) | Medium | [`code.java`](./63-java-sha-256/code.java) | [`README.md`](./63-java-sha-256/README.md) | ![Pending](https://img.shields.io/badge/-Pending-lightgrey) |
+
+</div>
 
 ---
 
