@@ -1,4 +1,4 @@
-# Java Domain Challenges
+<h2 id="java-domain-challenges">Java Domain Challenges</h2>
 
 <p align="left">
 <img src="https://img.shields.io/badge/HackerRank-Java%20Domain-2EC4B6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Java Domain">
